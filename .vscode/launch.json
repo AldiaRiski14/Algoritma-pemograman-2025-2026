@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "nama1",
+      "request": "launch",
+      "mainClass": "nama1",
+      "projectName": "Algoritma-pemograman-2025-2026_b2afd1c3"
+    },
+    {
+      "type": "java",
+      "name": "String",
+      "request": "launch",
+      "mainClass": "String",
+      "projectName": "Algoritma-pemograman-2025-2026_b2afd1c3"
+    },
+    {
+      "type": "java",
       "name": "luas",
       "request": "launch",
       "mainClass": "luas",
