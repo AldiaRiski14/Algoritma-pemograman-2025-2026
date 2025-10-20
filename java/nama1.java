@@ -5,9 +5,9 @@ public class nama1 {
         double tinggi = 178;
         boolean aktif = true;
 
-        System.out.println("Nama" + nama);
-        System.out.println("Umur" + umur);
-        System.out.println("Tinggi" + tinggi);
-        System.out.println("Status Aktif" + aktif);
+        System.out.println("Nama : " + nama);
+        System.out.println("Umur : " + umur);
+        System.out.println("Tinggi : " + tinggi);
+        System.out.println("Status Aktif : " + aktif);
     }
 }
