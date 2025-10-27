@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "nilai",
+      "request": "launch",
+      "mainClass": "nilai",
+      "projectName": "Algoritma-pemograman-2025-2026_b2afd1c3"
+    },
+    {
+      "type": "java",
       "name": "nama1",
       "request": "launch",
       "mainClass": "nama1",
