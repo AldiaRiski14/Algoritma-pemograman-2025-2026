@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "kasirmini",
+      "request": "launch",
+      "mainClass": "kasirmini",
+      "projectName": "Algoritma-pemograman-2025-2026_b2afd1c3"
+    },
+    {
+      "type": "java",
       "name": "nilai",
       "request": "launch",
       "mainClass": "nilai",
