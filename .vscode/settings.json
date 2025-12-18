@@ -59,5 +59,8 @@
   "CodeGPT.apiKey": "Gemini CLI",
   "editor.tabMovesFocus": false,
   "editor.insertSpaces": true,
-  "editor.detectIndentation": true
+  "editor.detectIndentation": true,
+  "cSpell.words": [
+    "versi"
+  ]
 }
